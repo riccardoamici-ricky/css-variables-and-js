@@ -20,9 +20,13 @@ body {
 input {
   width: 100px;
 }
+
 .image{
   width: 50%;
   padding: var(--spacing);
   background: var(--base);
   filter: blur(var(--blur));
+}
+.hl{
+  color: var(--base);
 }
